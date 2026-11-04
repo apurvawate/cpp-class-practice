@@ -6,4 +6,5 @@ int main()
     cout<<"the value at adress"<<*ptr;
     cout<<"the address:"<<ptr;
     return 0;
+    
 }
