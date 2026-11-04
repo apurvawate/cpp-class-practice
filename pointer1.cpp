@@ -13,7 +13,7 @@ int main()
     for(i=0;i<n;i++)
     {
     if(*ptr%2==0)
-    {sum+=*ptr};
+    {sum+=*ptr;}
     ptr++;
     }
     cout<<sum;
